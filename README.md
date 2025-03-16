@@ -11,10 +11,11 @@ This repository contains:
 
 * **Test Cases:** Detailed descriptions of the test scenarios performed, including steps, expected results, and actual results.
 * **Test Data:** Any necessary data used during testing, such as user accounts, product information, and payment details.
-* **Test Reports:** Summaries of the testing activities, including identified bugs, defects, and areas for improvement.
+* **Test Scenarios:** Summaries of the testing activities, including identified bugs, defects, and areas for improvement.
 * **Screenshots/Videos:** Visual evidence of bugs or successful test executions.
 * **Checklists:** Lists of features and functionalities that were tested.
-* **Defect Logs:** A record of all identified defects, including their severity and priority.
+* **Defect Reports:** A record of all identified defects, including their severity and priority.
+* **RTM:** crucial document that establishes a link between requirements and test cases and that all requirements are adequately covered by the test cases.
 
 ## Purpose
 
@@ -43,7 +44,7 @@ The testing covered the following areas of the Opencart web application:
 ## How to Use This Repository
 
 * Browse the `Test Cases` folder to understand the specific scenarios tested.
-* Review the `Test Reports` folder for summaries of the testing results.
+* Review the `Test Scenarios` folder for summaries of the testing results.
 * Examine the `Screenshots/Videos` folder for visual evidence of bugs or test executions.
 * Look at the `Defect Report` to see the issues found.
 
