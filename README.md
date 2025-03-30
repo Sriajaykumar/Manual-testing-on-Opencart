@@ -1,6 +1,3 @@
-# Manual-testing-on-Opencart
-Detailed documents outlining specific test scenarios. These would cover various functionalities of OpenCart, such as login processing, product browsing, user registration, checkout process, admin panel operations, etc. These test cases are usually organized into test suites, grouped by functionality or testing type.
-
 # Manual Testing on Opencart Web Application
 
 This project documents the manual testing efforts conducted on an Opencart web application. The goal was to ensure the application's functionality, usability, performance, and security meet the required standards before release or deployment.
